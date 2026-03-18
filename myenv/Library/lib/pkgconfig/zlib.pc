@@ -1,0 +1,13 @@
+prefix=D:/DAS/myenv/Library
+exec_prefix=D:/DAS/myenv/Library
+libdir=D:/DAS/myenv/Library/lib
+sharedlibdir=D:/DAS/myenv/Library/lib
+includedir=D:/DAS/myenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
