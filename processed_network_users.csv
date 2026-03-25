@@ -1,0 +1,16 @@
+user_id,name,experience_level,connections,is_influencer,total_likes
+101,Kumar,BEGINNER,15,False,350.0
+102,Neha,ADVANCED,120,True,0.0
+103,Rahul,INTERMEDIATE,45,False,120.0
+104,Zoya,BEGINNER,80,False,0.0
+105,Amit,BEGINNER,12,False,45.0
+106,Priya,INTERMEDIATE,65,False,0.0
+107,Vikram,EXPERT,340,True,0.0
+108,Sana,BEGINNER,5,False,0.0
+109,Rohit,BEGINNER,210,True,900.0
+110,Kavya,ADVANCED,150,True,0.0
+111,Arjun,INTERMEDIATE,55,False,0.0
+112,Aisha,BEGINNER,8,False,0.0
+113,Manish,EXPERT,410,True,0.0
+114,Sneha,INTERMEDIATE,75,False,0.0
+115,Rohan,BEGINNER,90,False,0.0
