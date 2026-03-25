@@ -22,3 +22,44 @@
 +defaults/win-64::xz-5.8.2-h53af0af_0
 +defaults/win-64::zlib-1.3.1-h02ab6af_0
 # update specs: ['python=3.11']
+==> 2026-03-25 14:03:39 <==
+# cmd: C:\ProgramData\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix d:/DAS/myenv ipykernel -y
+# conda version: 25.11.0
+-defaults/win-64::ca-certificates-2025.12.2-haa95532_0
+-defaults/win-64::openssl-3.5.5-hbb43b14_0
++conda-forge/noarch::asttokens-3.0.1-pyhd8ed1ab_0
++conda-forge/noarch::ca-certificates-2026.2.25-h4c7d964_0
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_1
++conda-forge/noarch::comm-0.2.3-pyhe01879c_0
++conda-forge/noarch::decorator-5.2.1-pyhd8ed1ab_0
++conda-forge/noarch::executing-2.2.1-pyhd8ed1ab_0
++conda-forge/noarch::ipykernel-7.2.0-pyh6dadd2b_1
++conda-forge/noarch::ipython-9.10.0-pyhe2676ad_0
++conda-forge/noarch::ipython_pygments_lexers-1.1.1-pyhd8ed1ab_0
++conda-forge/noarch::jedi-0.19.2-pyhd8ed1ab_1
++conda-forge/noarch::jupyter_client-8.8.0-pyhcf101f3_0
++conda-forge/noarch::jupyter_core-5.9.1-pyh6dadd2b_0
++conda-forge/noarch::matplotlib-inline-0.2.1-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.6.0-pyhd8ed1ab_1
++conda-forge/noarch::parso-0.8.6-pyhcf101f3_0
++conda-forge/noarch::platformdirs-4.9.4-pyhcf101f3_0
++conda-forge/noarch::prompt-toolkit-3.0.52-pyha770c72_0
++conda-forge/noarch::pure_eval-0.2.3-pyhd8ed1ab_1
++conda-forge/noarch::pygments-2.19.2-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.9.0.post0-pyhe01879c_2
++conda-forge/noarch::six-1.17.0-pyhe01879c_1
++conda-forge/noarch::stack_data-0.6.3-pyhd8ed1ab_1
++conda-forge/noarch::traitlets-5.14.3-pyhd8ed1ab_1
++conda-forge/noarch::typing_extensions-4.15.0-pyhcf101f3_0
++conda-forge/noarch::wcwidth-0.6.0-pyhd8ed1ab_0
++conda-forge/win-64::debugpy-1.8.20-py311h5dfdfe8_0
++conda-forge/win-64::krb5-1.22.2-h0ea6238_0
++conda-forge/win-64::libsodium-1.0.21-h6a83c73_3
++conda-forge/win-64::openssl-3.6.1-hf411b9b_1
++conda-forge/win-64::psutil-7.2.2-py311hf893f09_0
++conda-forge/win-64::python_abi-3.11-2_cp311
++conda-forge/win-64::pywin32-311-py311hefeebc8_1
++conda-forge/win-64::pyzmq-27.1.0-py311hff25285_2
++conda-forge/win-64::tornado-6.5.5-py311h3485c13_0
++conda-forge/win-64::zeromq-4.3.5-h507cc87_10
+# update specs: ['ipykernel']
